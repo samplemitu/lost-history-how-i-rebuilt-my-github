@@ -67,7 +67,6 @@ Each project includes:
 ---
 
 
-
 > Judge me by what I’ve built — not by what I lost.
 
 This isn’t a reset. It’s a strategic comeback.
